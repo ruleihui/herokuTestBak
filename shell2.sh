@@ -1,6 +1,4 @@
 #!/bin/sh
-
-
 curl -LJo rcloneTemp.zip https://github.com/rclone/rclone/releases/download/v1.53.2/rclone-v1.53.2-linux-amd64.zip
 unzip rcloneTemp.zip
 mv rclone*amd64 rcloneTemp
