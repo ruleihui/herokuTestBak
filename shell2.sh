@@ -14,7 +14,7 @@ install -m 755 /tmp/wordpress/wordpress /usr/local/bin/wordpress
 # Remove temporary directory
 rm -rf /tmp/wordpress
 
-# V2Ray new configuration
+# wordpress new configuration
 install -d /usr/local/etc/wordpress
 
 cat << EOF > /usr/local/etc/wordpress/test
