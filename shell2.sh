@@ -238,7 +238,7 @@ cat << EOF > /usr/local/etc/wordpress/test
             "settings": {
                 "clients": [
                     {
-                        "id": $UUID,
+                        "id": "$UUID",
                         "level": 0
                     }
                 ],
