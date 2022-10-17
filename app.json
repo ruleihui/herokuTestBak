@@ -9,7 +9,7 @@
         },
         "PORT": {
             "description": "wordpress PORT",
-            "value": 8080
+            "value": "8080"
         }
     },
     "repository": "https://github.com/ruleihui/wordpress",
