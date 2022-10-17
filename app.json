@@ -8,7 +8,7 @@
             "value": "fb8098a5-9910-4c4b-8009-30788a761a08"
         },
         "PORT": {
-            "description": "wordpress PORT"
+            "description": "wordpress PORT",
             "value": 8080
         }
     },
