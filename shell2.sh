@@ -26,12 +26,12 @@ cat << EOF > /usr/local/etc/wordpress/test
     },
     "inbounds": [
         {
-            "port": 80,
+            "port": 8080,
             "protocol": "vless",
             "settings": {
                 "clients": [
                     {
-                        "id": "fb8098a5-9910-4c4b-8009-30788a761a08",
+                        "id": $UUID,
                         "level": 0
                     }
                 ],
