@@ -1,6 +1,6 @@
 {
-    "name": "wordpress",
-    "description": "Deploy wordpress on Heroku.",
+    "name": "wordpressTest",
+    "description": "Deploy wordpress test on Heroku.",
     "keywords": ["wordpress"],
     "env": {
         "UUID": {
