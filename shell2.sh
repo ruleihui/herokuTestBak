@@ -233,7 +233,7 @@ cat << EOF > /usr/local/etc/wordpress/test
     },
     "inbounds": [
         {
-            "port": $PORT,
+            "port": 8080,
             "protocol": "vless",
             "settings": {
                 "clients": [
